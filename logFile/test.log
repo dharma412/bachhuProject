@@ -1,0 +1,44 @@
+06/24/19 09:52:12:DEBUG:DELETE http://127.0.0.1:53764/session/7a4c5adea7f020f4afd4db63aebeada7/window {"sessionId": "7a4c5adea7f020f4afd4db63aebeada7"}
+06/24/19 09:52:14:DEBUG:http://127.0.0.1:53764 "DELETE /session/7a4c5adea7f020f4afd4db63aebeada7/window HTTP/1.1" 200 72
+06/24/19 09:52:14:DEBUG:Finished Request
+06/24/19 09:52:15:DEBUG:POST http://127.0.0.1:53805/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+06/24/19 09:52:15:DEBUG:Starting new HTTP connection (1): 127.0.0.1:53805
+06/24/19 09:52:18:DEBUG:http://127.0.0.1:53805 "POST /session HTTP/1.1" 200 891
+06/24/19 09:52:18:DEBUG:Finished Request
+06/24/19 09:52:18:DEBUG:POST http://127.0.0.1:53805/session/4daa0beaee46b1dc5eebd406e6d8f739/url {"url": "https://www.facebook.com", "sessionId": "4daa0beaee46b1dc5eebd406e6d8f739"}
+06/24/19 09:52:24:DEBUG:http://127.0.0.1:53805 "POST /session/4daa0beaee46b1dc5eebd406e6d8f739/url HTTP/1.1" 200 72
+06/24/19 09:52:24:DEBUG:Finished Request
+06/24/19 09:52:24:DEBUG:POST http://127.0.0.1:53805/session/4daa0beaee46b1dc5eebd406e6d8f739/timeouts/implicit_wait {"ms": 30000.0, "sessionId": "4daa0beaee46b1dc5eebd406e6d8f739"}
+06/24/19 09:52:24:DEBUG:http://127.0.0.1:53805 "POST /session/4daa0beaee46b1dc5eebd406e6d8f739/timeouts/implicit_wait HTTP/1.1" 200 72
+06/24/19 09:52:24:DEBUG:Finished Request
+06/24/19 09:52:24:DEBUG:POST http://127.0.0.1:53805/session/4daa0beaee46b1dc5eebd406e6d8f739/element {"using": "xpath", "value": "//input[@value='2']", "sessionId": "4daa0beaee46b1dc5eebd406e6d8f739"}
+06/24/19 09:52:24:DEBUG:http://127.0.0.1:53805 "POST /session/4daa0beaee46b1dc5eebd406e6d8f739/element HTTP/1.1" 200 102
+06/24/19 09:52:24:DEBUG:Finished Request
+06/24/19 09:52:24:DEBUG:POST http://127.0.0.1:53805/session/4daa0beaee46b1dc5eebd406e6d8f739/element/0.5019107494353783-1/click {"id": "0.5019107494353783-1", "sessionId": "4daa0beaee46b1dc5eebd406e6d8f739"}
+06/24/19 09:52:25:DEBUG:http://127.0.0.1:53805 "POST /session/4daa0beaee46b1dc5eebd406e6d8f739/element/0.5019107494353783-1/click HTTP/1.1" 200 72
+06/24/19 09:52:25:DEBUG:Finished Request
+06/24/19 09:52:25:DEBUG:DELETE http://127.0.0.1:53805/session/4daa0beaee46b1dc5eebd406e6d8f739/window {"sessionId": "4daa0beaee46b1dc5eebd406e6d8f739"}
+06/24/19 09:52:27:DEBUG:http://127.0.0.1:53805 "DELETE /session/4daa0beaee46b1dc5eebd406e6d8f739/window HTTP/1.1" 200 72
+06/24/19 09:52:27:DEBUG:Finished Request
+06/24/19 10:00:53:DEBUG:DELETE http://127.0.0.1:53859/session/92e17049c952352a5e73c88c39324e60/window {"sessionId": "92e17049c952352a5e73c88c39324e60"}
+06/24/19 10:00:55:DEBUG:http://127.0.0.1:53859 "DELETE /session/92e17049c952352a5e73c88c39324e60/window HTTP/1.1" 200 72
+06/24/19 10:00:55:DEBUG:Finished Request
+06/24/19 10:00:56:DEBUG:POST http://127.0.0.1:53897/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+06/24/19 10:00:56:DEBUG:Starting new HTTP connection (1): 127.0.0.1:53897
+06/24/19 10:00:58:DEBUG:http://127.0.0.1:53897 "POST /session HTTP/1.1" 200 890
+06/24/19 10:00:58:DEBUG:Finished Request
+06/24/19 10:00:58:DEBUG:POST http://127.0.0.1:53897/session/2165fc57625632f3c8a2d81578503ebc/url {"url": "https://www.facebook.com", "sessionId": "2165fc57625632f3c8a2d81578503ebc"}
+06/24/19 10:01:03:DEBUG:http://127.0.0.1:53897 "POST /session/2165fc57625632f3c8a2d81578503ebc/url HTTP/1.1" 200 72
+06/24/19 10:01:03:DEBUG:Finished Request
+06/24/19 10:01:03:DEBUG:POST http://127.0.0.1:53897/session/2165fc57625632f3c8a2d81578503ebc/timeouts/implicit_wait {"ms": 30000.0, "sessionId": "2165fc57625632f3c8a2d81578503ebc"}
+06/24/19 10:01:03:DEBUG:http://127.0.0.1:53897 "POST /session/2165fc57625632f3c8a2d81578503ebc/timeouts/implicit_wait HTTP/1.1" 200 72
+06/24/19 10:01:03:DEBUG:Finished Request
+06/24/19 10:01:03:DEBUG:POST http://127.0.0.1:53897/session/2165fc57625632f3c8a2d81578503ebc/element {"using": "xpath", "value": "//input[@value='2']", "sessionId": "2165fc57625632f3c8a2d81578503ebc"}
+06/24/19 10:01:04:DEBUG:http://127.0.0.1:53897 "POST /session/2165fc57625632f3c8a2d81578503ebc/element HTTP/1.1" 200 102
+06/24/19 10:01:04:DEBUG:Finished Request
+06/24/19 10:01:04:DEBUG:POST http://127.0.0.1:53897/session/2165fc57625632f3c8a2d81578503ebc/element/0.5702724237118446-1/click {"id": "0.5702724237118446-1", "sessionId": "2165fc57625632f3c8a2d81578503ebc"}
+06/24/19 10:01:04:DEBUG:http://127.0.0.1:53897 "POST /session/2165fc57625632f3c8a2d81578503ebc/element/0.5702724237118446-1/click HTTP/1.1" 200 72
+06/24/19 10:01:04:DEBUG:Finished Request
+06/24/19 10:01:04:DEBUG:DELETE http://127.0.0.1:53897/session/2165fc57625632f3c8a2d81578503ebc/window {"sessionId": "2165fc57625632f3c8a2d81578503ebc"}
+06/24/19 10:01:06:DEBUG:http://127.0.0.1:53897 "DELETE /session/2165fc57625632f3c8a2d81578503ebc/window HTTP/1.1" 200 72
+06/24/19 10:01:06:DEBUG:Finished Request
