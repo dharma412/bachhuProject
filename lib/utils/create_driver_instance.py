@@ -13,5 +13,6 @@ def get_driver_instance():
             browser=Chrome("C:/Users/Debasis/PycharmProjects/ApiSampleProject/browser_server/chromedriver.exe")
     else:
         print("Invalid Browser")
+        exit()  #add one line
     browser.maximize_window()
     browser.implicitly_wait(30)
