@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19302998-3df8-4f62-8dd6-21606a2de84b" name="Default" comment="" />
+    <list default="true" id="19302998-3df8-4f62-8dd6-21606a2de84b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/browser_server/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui/pom/homePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui/pom/homePage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui/pom/loginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui/pom/loginPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui/registrationPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui/registrationPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils/create_driver_instance.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils/create_driver_instance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/regression/test_homePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/regression/test_homePage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/regression/test_loginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/regression/test_loginPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
+    </list>
     <list id="20a4f2ff-1ed7-4d7f-9a32-b4a106ec9f52" name="Revert: add all" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +25,8 @@
       <file leaf-file-name="test_loginPage.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/regression/test_loginPage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+            <state relative-caret-position="68">
+              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -28,16 +38,16 @@
         <entry file="file://$PROJECT_DIR$/conftest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="create_driver_instance.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="create_driver_instance.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/utils/create_driver_instance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            <state relative-caret-position="170">
+              <caret line="12" column="110" selection-start-line="12" selection-start-column="110" selection-end-line="12" selection-end-column="110" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -62,7 +72,8 @@
       <file leaf-file-name="registrationPage.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/ui/registrationPage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="68">
+              <caret line="8" column="110" selection-start-line="8" selection-start-column="110" selection-end-line="8" selection-end-column="110" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -73,8 +84,8 @@
       <file leaf-file-name="loginPage.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/ui/pom/loginPage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="34" selection-start-line="4" selection-end-line="34" />
+            <state relative-caret-position="119">
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
               </folding>
@@ -82,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_homePage.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test_homePage.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/regression/test_homePage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+            <state relative-caret-position="204">
+              <caret line="16" column="137" selection-start-line="16" selection-start-column="137" selection-end-line="16" selection-end-column="137" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -94,20 +105,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="webelement.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webelement.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1173">
-              <caret line="79" selection-start-line="79" selection-end-line="79" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="homePage.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/ui/pom/homePage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            <state>
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -131,18 +135,18 @@
         <option value="$PROJECT_DIR$/lib/utils/popUp.py" />
         <option value="$PROJECT_DIR$/lib/utils/dropDown.py" />
         <option value="$PROJECT_DIR$/test/test_loginPage.py" />
-        <option value="$PROJECT_DIR$/lib/ui/pom/loginPage.py" />
-        <option value="$PROJECT_DIR$/lib/ui/registrationPage.py" />
         <option value="$PROJECT_DIR$/lib/utils/mouseHover.py" />
-        <option value="$PROJECT_DIR$/lib/ui/pom/homePage.py" />
-        <option value="$PROJECT_DIR$/test/regression/test_homePage.py" />
-        <option value="$PROJECT_DIR$/test/regression/test_loginPage.py" />
         <option value="$PROJECT_DIR$/conftest.py" />
+        <option value="$PROJECT_DIR$/lib/ui/pom/loginPage.py" />
+        <option value="$PROJECT_DIR$/lib/ui/pom/homePage.py" />
+        <option value="$PROJECT_DIR$/test/regression/test_loginPage.py" />
         <option value="$PROJECT_DIR$/lib/utils/create_driver_instance.py" />
+        <option value="$PROJECT_DIR$/lib/ui/registrationPage.py" />
+        <option value="$PROJECT_DIR$/test/regression/test_homePage.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="y" value="2" />
     <option name="width" value="1378" />
@@ -171,6 +175,19 @@
               <item name="ApiSampleProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="ApiSampleProject" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ApiSampleProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApiSampleProject" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ApiSampleProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApiSampleProject" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="pom" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ApiSampleProject" type="b2602c69:ProjectViewProjectNode" />
@@ -221,7 +238,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for test_loginPage.Test_login01.test_hompPage">
+  <component name="RunManager" selected="Python tests.Unittests for test_homePage.Test_homePage01.test_homePage_logout">
+    <configuration name="Unittests for test_homePage.Test_homePage01.test_homePage_logout" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ApiSampleProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_homePage.Test_homePage01.test_homePage_logout&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for test_homePage.Test_homePage01.test_homePage_valid_tc01" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ApiSampleProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_homePage.Test_homePage01.test_homePage_valid_tc01&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
     <configuration name="Unittests for test_loginPage.Test_login01.test_hompPage" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="ApiSampleProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -248,19 +291,6 @@
       <option name="_new_target" value="&quot;test_loginPage.Test_login01.test_login_valid_tc01&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests in registrationPage.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="ApiSampleProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib/ui" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/lib/ui/registrationPage.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
     <configuration name="Unittests in test_homePage.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="ApiSampleProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -274,33 +304,20 @@
       <option name="_new_target" value="&quot;$PROJECT_DIR$/test/regression/test_homePage.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <configuration name="Unittests in test_loginPage.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="ApiSampleProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/regression" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/regression/test_loginPage.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests in registrationPage.py" />
-      <item itemvalue="Python tests.Unittests in test_loginPage.py" />
       <item itemvalue="Python tests.Unittests for test_loginPage.Test_login01.test_hompPage" />
       <item itemvalue="Python tests.Unittests in test_homePage.py" />
       <item itemvalue="Python tests.Unittests for test_loginPage.Test_login01.test_login_valid_tc01" />
+      <item itemvalue="Python tests.Unittests for test_homePage.Test_homePage01.test_homePage_logout" />
+      <item itemvalue="Python tests.Unittests for test_homePage.Test_homePage01.test_homePage_valid_tc01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for test_homePage.Test_homePage01.test_homePage_logout" />
+        <item itemvalue="Python tests.Unittests for test_homePage.Test_homePage01.test_homePage_valid_tc01" />
+        <item itemvalue="Python tests.Unittests in test_homePage.py" />
         <item itemvalue="Python tests.Unittests for test_loginPage.Test_login01.test_hompPage" />
         <item itemvalue="Python tests.Unittests for test_loginPage.Test_login01.test_login_valid_tc01" />
-        <item itemvalue="Python tests.Unittests in test_loginPage.py" />
-        <item itemvalue="Python tests.Unittests in test_homePage.py" />
-        <item itemvalue="Python tests.Unittests in registrationPage.py" />
       </list>
     </recent_temporary>
   </component>
@@ -327,35 +344,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_homePage_py - 2019.06.26 at 10h 15m 22s.xml">
+    <history-entry file="Unittests_for_test_homePage_Test_homePage01_test_homePage_logout - 2019.06.27 at 21h 10m 36s.xml">
+      <configuration name="Unittests for test_homePage.Test_homePage01.test_homePage_logout" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_homePage_Test_homePage01_test_homePage_valid_tc01 - 2019.06.27 at 21h 15m 58s.xml">
+      <configuration name="Unittests for test_homePage.Test_homePage01.test_homePage_valid_tc01" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_homePage_py - 2019.06.27 at 21h 17m 06s.xml">
       <configuration name="Unittests in test_homePage.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_homePage_py - 2019.06.26 at 10h 18m 08s.xml">
+    <history-entry file="Unittests_in_test_homePage_py - 2019.06.27 at 21h 18m 16s.xml">
       <configuration name="Unittests in test_homePage.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_homePage_py - 2019.06.26 at 10h 19m 08s.xml">
+    <history-entry file="Unittests_in_test_homePage_py - 2019.06.27 at 21h 22m 26s.xml">
       <configuration name="Unittests in test_homePage.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_loginPage_py - 2019.06.26 at 10h 23m 53s.xml">
-      <configuration name="Unittests in test_loginPage.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_homePage_py - 2019.06.27 at 21h 38m 28s.xml">
+      <configuration name="Unittests in test_homePage.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_loginPage_py - 2019.06.26 at 12h 28m 19s.xml">
-      <configuration name="Unittests in test_loginPage.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_homePage_py - 2019.06.27 at 21h 43m 46s.xml">
+      <configuration name="Unittests in test_homePage.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_loginPage_Test_login01_test_login_valid_tc01 - 2019.06.26 at 12h 29m 02s.xml">
-      <configuration name="Unittests for test_loginPage.Test_login01.test_login_valid_tc01" configurationId="tests" />
+    <history-entry file="Unittests_for_test_homePage_Test_homePage01_test_homePage_valid_tc01 - 2019.06.27 at 21h 46m 52s.xml">
+      <configuration name="Unittests for test_homePage.Test_homePage01.test_homePage_valid_tc01" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_loginPage_Test_login01_test_login_valid_tc01 - 2019.06.26 at 14h 58m 19s.xml">
-      <configuration name="Unittests for test_loginPage.Test_login01.test_login_valid_tc01" configurationId="tests" />
+    <history-entry file="Unittests_for_test_homePage_Test_homePage01_test_homePage_valid_tc01 - 2019.06.27 at 21h 48m 08s.xml">
+      <configuration name="Unittests for test_homePage.Test_homePage01.test_homePage_valid_tc01" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_loginPage_Test_login01_test_login_valid_tc01 - 2019.06.26 at 15h 00m 24s.xml">
-      <configuration name="Unittests for test_loginPage.Test_login01.test_login_valid_tc01" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_loginPage_Test_login01_test_login_valid_tc01 - 2019.06.26 at 15h 02m 54s.xml">
-      <configuration name="Unittests for test_loginPage.Test_login01.test_login_valid_tc01" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_loginPage_Test_login01_test_hompPage - 2019.06.26 at 15h 12m 24s.xml">
-      <configuration name="Unittests for test_loginPage.Test_login01.test_hompPage" configurationId="tests" />
+    <history-entry file="Unittests_for_test_homePage_Test_homePage01_test_homePage_logout - 2019.06.27 at 21h 48m 57s.xml">
+      <configuration name="Unittests for test_homePage.Test_homePage01.test_homePage_logout" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView" selected-index="3">
@@ -369,14 +386,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="2" width="1378" height="733" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49925372" visible="true" weight="0.32941177" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50074625" side_tool="true" visible="true" weight="0.32941177" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49925372" weight="0.32941177" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50074625" side_tool="true" weight="0.32436976" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49552238" weight="0.32941177" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49925372" weight="0.32941177" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32436976" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49925372" visible="true" weight="0.32436976" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49925372" weight="0.32941177" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -387,6 +404,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -396,14 +414,14 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32436976" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49925372" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925372" visible="true" weight="0.32436976" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49925372" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32941177" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49925372" weight="0.32941177" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50074625" side_tool="true" weight="0.32436976" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49552238" weight="0.32941177" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
@@ -443,25 +461,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="add all" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/regression/test_homePage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/ui/registrationPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/utils/dropDown.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -469,13 +468,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/utils/mouseHover.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/utils/mouseHover.py" />
     <entry file="file://$PROJECT_DIR$/lib/utils/popUp.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -516,13 +509,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/utils/mouseHover.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/utils/mouseHover.py" />
     <entry file="file://$PROJECT_DIR$/lib/utils/popUp.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -580,13 +567,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/utils/mouseHover.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/utils/mouseHover.py" />
     <entry file="file://$PROJECT_DIR$/lib/utils/popUp.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -640,9 +621,7 @@
     <entry file="file://$PROJECT_DIR$/lib/utils/dropDown.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/utils/mouseHover.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/utils/mouseHover.py" />
     <entry file="file://$PROJECT_DIR$/lib/utils/popUp.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -681,46 +660,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/ui/pom/homePage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webelement.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1173">
           <caret line="79" selection-start-line="79" selection-end-line="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/regression/test_homePage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/ui/pom/loginPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="34" selection-start-line="4" selection-end-line="34" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/ui/registrationPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -734,19 +677,22 @@
     <entry file="file://$PROJECT_DIR$/lib/utils/popUp.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/utils/mouseHover.py">
+    <entry file="file://$PROJECT_DIR$/lib/utils/mouseHover.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        <state relative-caret-position="184">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/regression/test_loginPage.py">
+    <entry file="file://$PROJECT_DIR$/errorScreenshot/valid_login.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/pom/homePage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        <state>
           <folding>
-            <element signature="e#0#37#0" expanded="true" />
+            <element signature="e#0#58#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -754,16 +700,56 @@
     <entry file="file://$PROJECT_DIR$/conftest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/utils/create_driver_instance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="170">
+          <caret line="12" column="110" selection-start-line="12" selection-start-column="110" selection-end-line="12" selection-end-column="110" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/registrationPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="110" selection-start-line="8" selection-start-column="110" selection-end-line="8" selection-end-column="110" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/pom/loginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/regression/test_loginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/regression/test_homePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="137" selection-start-line="16" selection-start-column="137" selection-end-line="16" selection-end-column="137" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
           </folding>
         </state>
       </provider>

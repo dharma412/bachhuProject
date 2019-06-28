@@ -6,7 +6,7 @@ import logging
 
 class Test_login01(unittest.TestCase):
     def setUp(self):
-        self.driver=Chrome("C:/Users/Debasis/PycharmProjects/ApiSampleProject/browser_server/chromedriver.exe")
+        self.driver=Chrome("C://Users/Debasis/PycharmProjects/ApiSampleProject/browser_server/chromedriver.exe")
         self.driver.get("https://www.facebook.com")
         self.driver.implicitly_wait(30)
     def test_birthday(self):

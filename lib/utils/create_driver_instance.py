@@ -10,7 +10,7 @@ def get_driver_instance():
         if browserType=="Firefox":
             browser=Firefox
         elif browserType=="Chrome":
-            browser=Chrome("C:/Users/Debasis/PycharmProjects/ApiSampleProject/browser_server/chromedriver.exe")
+            browser=Chrome("C://Users/Debasis/PycharmProjects/ApiSampleProject/browser_server/chromedriver.exe")
     else:
         print("Invalid Browser")
         exit()  #add one line
